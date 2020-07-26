@@ -1,0 +1,147 @@
+.navbar {
+    padding: .8rem;
+}
+  
+.navbar-nav {
+    padding-right: 20px;
+}
+  
+  
+.nav-link {
+    font-size: 1.1em !important;
+}
+  
+.padding {
+    padding-bottom: 2rem;
+}
+
+ 
+.welcome hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.me p, .me h3 {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.card-img-top {
+    height: 233.5px;
+}
+
+.info {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+  
+.info hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+  
+.fa-code {
+    color: #e54d26;
+}
+  
+.fa-bold {
+    color: #563d7c;
+}
+  
+.fa-css3 {
+    color: #2163af;
+}
+
+.fa-code, .fa-bold, .fa-css3 {
+    font-size: 4em;
+    margin: 1rem;
+}
+
+.social a {
+    font-size: 4.5em;
+    padding: 3rem;
+}
+  
+.fa-facebook {
+    color: #3b5998;
+}
+  
+.fa-twitter {
+    color: #00aced;
+}
+  
+.fa-github {
+    color: #24292e;
+}
+  
+.fa-instagram {
+    color: #517fa4;
+}
+  
+.fa-linkedin {
+    color: #0073b1;
+}
+  
+.fa-facebook:hover, .fa-twitter:hover, .fa-github:hover, 
+.fa-instagram:hover, .fa-linkedin:hover {
+    color: #d5d5d5;
+}
+
+
+footer {
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding: 3rem;
+    text-align: center;    
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+.container-fluid {
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+
+@media (min-width: 757px) {
+    .lead {
+        font-size: 1.5rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+      padding: 1rem;
+}
+
